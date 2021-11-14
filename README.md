@@ -1,0 +1,1 @@
+Przykłady w języku R do prezentacji [Publiczne dane, otwarte oprogramowanie i przestrzenne zapytania](https://nowosad.github.io/gisday-2021/), GISday 2021
